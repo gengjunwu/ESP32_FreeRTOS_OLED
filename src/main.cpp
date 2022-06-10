@@ -4,6 +4,7 @@
  * Author: Gengjun Wu
  * Copyright (c) 2022, gengjun.wu@gmail.com
  * All rights reserved.
+ * 
  * Redistribution and use in source and binary forms, with or without modification, 
  * are permitted provided that the following conditions are met:
  * 
@@ -29,7 +30,7 @@
  * 
  * Tutorials:
  * Interface OLED Graphic Display Module with ESP32 (https://lastminuteengineers.com/oled-display-esp32-tutorial/)
- * How to Multitask with FreeRTOS (How to Multitask with FreeRTOS)
+ * How to Multitask with FreeRTOS (https://www.youtube.com/watch?v=WQGAs9MwXno)
  * Keep WiFi Connection Alive with FreeRTOS Task (https://www.youtube.com/watch?v=YSGPcm-qxDA)
 ************************************************************************************************/
 
