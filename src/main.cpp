@@ -133,17 +133,5 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  // oled.clearDisplay();
   vTaskDelay(100 / portTICK_PERIOD_MS); // The task delay is needed here for the OLED task to update count
-  // oled.setTextSize(1);
-  // oled.setTextColor(WHITE);
-  // oled.setCursor(0,0);
-  // oled.println(F("Current count1 is: "));
-  // oled.setCursor(0,18);
-  // oled.print(count1);
-  // oled.setCursor(0,35);
-  // oled.println(F("Current count2 is: "));
-  // oled.setCursor(0,53);
-  // oled.print(count2);
-  // oled.display();
 }
